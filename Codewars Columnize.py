@@ -3,7 +3,7 @@ items, columns_count = ["1", "12", "123", "1234", "12345", "123456"], 3
 
 
 item1 = [x**2 for x in range(1,22,2)]
-#print(item1)
+
 
 
 def dividelist(listt, n):
